@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(2, 2, 77);
+    font-family: 'Roboto', sans-serif;
+}
+
+.sign-up {
+    background-color: #fff;
+    height: 620px;
+    margin: auto;
+    border-radius: 3px;
+    width: 360px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input {
+    width: 100%;
+    padding: 7px;
+}
+
+input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+}
+
+p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.pa {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px
+}
+
+.pa a {
+    color: grey;
+}
